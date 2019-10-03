@@ -5,6 +5,7 @@ public class hello {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");
+        //nimabi      hhhhh
     }
     public void test(){
         int i=10;
